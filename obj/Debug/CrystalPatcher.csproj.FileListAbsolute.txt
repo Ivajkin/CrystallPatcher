@@ -1,0 +1,16 @@
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\bin\Debug\CrystalPatcher.exe
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\bin\Debug\CrystalPatcher.pdb
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystalPatcher.MainForm.resources
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystalPatcher.Properties.Resources.resources
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystalPatcher.csproj.GenerateResource.Cache
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystalPatcher.exe
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystalPatcher.pdb
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\obj\Debug\CrystalPatcher.exe
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\obj\Debug\CrystalPatcher.pdb
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\bin\Debug\CrystalPatcher.exe
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\bin\Debug\CrystalPatcher.pdb
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\obj\Debug\CrystalPatcher.MainForm.resources
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\obj\Debug\CrystalPatcher.Properties.Resources.resources
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystalPatcher\obj\Debug\CrystalPatcher.csproj.GenerateResource.Cache

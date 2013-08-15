@@ -1,0 +1,8 @@
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\bin\Debug\CrystallPatcher.exe
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\bin\Debug\CrystallPatcher.pdb
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystallPatcher.Properties.Resources.resources
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystallPatcher.csproj.GenerateResource.Cache
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystallPatcher.exe
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystallPatcher.pdb
+D:\Users\Tim\Documents\Visual Studio 2008\Projects\CrystallPatcher\obj\Debug\CrystallPatcher.MainForm.resources
